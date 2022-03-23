@@ -1,0 +1,1465 @@
+[Command used]:
+MaChIAto /Users/nedo01/nakamae_github/MaChIAto/MaChIAto/MaChIAto.py -m CRISPResso2 -ccf ./NGS_WB_W4/analysis_files2/CRISPRessoPooled_on_AMPLICONS_HifiH4_1_2_041221/CRISPResso_on_A2LD1/Alleles_frequency_table.zip -o ./MaChIAto_output2/CRISPRessoPooled_on_AMPLICONS_HifiH4_2 -n A2LD1 -a GCTTTCTGGATGACTTCGAGAGTTGCCCGGCCCTGTACCAGCGCACGGTGCTGCGGGTACAGCTGCTGGAGGACCGGGCCCCGGGCGCAGAGGAGCCGCCAGCGCCCACCGCGGTGCAGTGCTTCGTGTACAGCAGGGCCACCTTCCCGCCGGAGTGGGCCCAGCTCCCGCACCATGACAGCTACGACTCCGAGGGGCCGCACGGGCTGCGCTACAACCCCCGGGAGAACAGATAAGGGGGACGGGCAGGGTGGGCCTAGGTTTGAGAGCCCTGGGGCT -g GGGTTGTAGCGCAGCCCGTG
+
+[Execution log]:
+Running Optimizations
+Preparing for first optimization ------------------------------------------------------------->
+Making test data using NHEJ data
+Making test data using UNMODIFIED data
+Making test data using HDR data
+Making test data using Mixed HDR-NHEJ data
+Running first optimization : Optimizing Out-Out indicators------------------------------------>
+<First optimization>
+[parameters] left_out_indicator_len : 17 right_out_indicator_len : 14 left_junction_len : 24 right_junction_len : 27
+Score : 0.5750707114826766
+<First optimization>
+[parameters] left_out_indicator_len : 20 right_out_indicator_len : 24 left_junction_len : 27 right_junction_len : 29
+Score : 0.5992866119240652
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 21 left_junction_len : 23 right_junction_len : 29
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 24 left_junction_len : 22 right_junction_len : 23
+Score : 0.5326847915529209
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 10 left_junction_len : 27 right_junction_len : 26
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 12 right_out_indicator_len : 20 left_junction_len : 22 right_junction_len : 27
+Score : 0.5537285646924409
+<First optimization>
+[parameters] left_out_indicator_len : 14 right_out_indicator_len : 20 left_junction_len : 20 right_junction_len : 22
+Score : 0.5793083122291142
+<First optimization>
+[parameters] left_out_indicator_len : 24 right_out_indicator_len : 5 left_junction_len : 20 right_junction_len : 20
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 23 right_out_indicator_len : 23 left_junction_len : 24 right_junction_len : 23
+Score : 0.6199883556851367
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 8 left_junction_len : 25 right_junction_len : 25
+Score : 0.5033534729511352
+<First optimization>
+[parameters] left_out_indicator_len : 11 right_out_indicator_len : 22 left_junction_len : 25 right_junction_len : 29
+Score : 0.5530853887018644
+<First optimization>
+[parameters] left_out_indicator_len : 17 right_out_indicator_len : 24 left_junction_len : 26 right_junction_len : 24
+Score : 0.5850393216978397
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 24 left_junction_len : 28 right_junction_len : 24
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 11 right_out_indicator_len : 24 left_junction_len : 24 right_junction_len : 26
+Score : 0.5687135412657072
+<First optimization>
+[parameters] left_out_indicator_len : 12 right_out_indicator_len : 19 left_junction_len : 21 right_junction_len : 24
+Score : 0.557787833994026
+<First optimization>
+[parameters] left_out_indicator_len : 19 right_out_indicator_len : 12 left_junction_len : 24 right_junction_len : 24
+Score : 0.5808655251915679
+<First optimization>
+[parameters] left_out_indicator_len : 22 right_out_indicator_len : 5 left_junction_len : 29 right_junction_len : 23
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 6 left_junction_len : 28 right_junction_len : 24
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 18 right_out_indicator_len : 14 left_junction_len : 21 right_junction_len : 24
+Score : 0.580066445903441
+<First optimization>
+[parameters] left_out_indicator_len : 13 right_out_indicator_len : 5 left_junction_len : 21 right_junction_len : 28
+Score : 1
+initializing Y
+initializing inference method
+adding kernel and likelihood as parameters
+<First optimization>
+[parameters] left_out_indicator_len : 17 right_out_indicator_len : 21 left_junction_len : 21 right_junction_len : 26
+Score : 0.5861435378691998
+<First optimization>
+[parameters] left_out_indicator_len : 17 right_out_indicator_len : 22 left_junction_len : 20 right_junction_len : 25
+Score : 0.5883181313169743
+<First optimization>
+[parameters] left_out_indicator_len : 16 right_out_indicator_len : 21 left_junction_len : 21 right_junction_len : 25
+Score : 0.5831788411761786
+<First optimization>
+[parameters] left_out_indicator_len : 16 right_out_indicator_len : 22 left_junction_len : 21 right_junction_len : 25
+Score : 0.5843159578059202
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 8 left_junction_len : 23 right_junction_len : 24
+Score : 0.4272329518218285
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 23 right_junction_len : 25
+Score : 0.3827066419821467
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 7 left_junction_len : 22 right_junction_len : 23
+Score : 0.4035017828352227
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 25
+Score : 0.32016185523612933
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 26
+Score : 0.27196210789329434
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 28
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 25
+Score : 0.2935562912645791
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 25
+Score : 0.3570745275656546
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 5 left_junction_len : 21 right_junction_len : 26
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 26
+Score : 0.2965875007826345
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 25
+Score : 0.2956206144179323
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 8 left_junction_len : 22 right_junction_len : 24
+Score : 0.3919130963860631
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 8 left_junction_len : 21 right_junction_len : 24
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 22 right_junction_len : 24
+Score : 0.3919130963860631
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 8 left_junction_len : 23 right_junction_len : 24
+Score : 0.4104760574799591
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 22 right_junction_len : 25
+Score : 0.3864142270070037
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 23 right_junction_len : 24
+Score : 0.38825563110907635
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 8 left_junction_len : 22 right_junction_len : 25
+Score : 0.42298070659003806
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 7 left_junction_len : 23 right_junction_len : 25
+Score : 0.4052594316192225
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 22 right_junction_len : 23
+Score : 0.4278912087614529
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 6 left_junction_len : 23 right_junction_len : 23
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 8 left_junction_len : 23 right_junction_len : 25
+Score : 0.4025637671960586
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 9 left_junction_len : 20 right_junction_len : 26
+Score : 0.33425300669289393
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 7 left_junction_len : 22 right_junction_len : 24
+Score : 0.43036284153872373
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 8 left_junction_len : 21 right_junction_len : 23
+Score : 0.45017930675287154
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 8 left_junction_len : 22 right_junction_len : 22
+Score : 0.4657349295410931
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 9 left_junction_len : 21 right_junction_len : 24
+Score : 0.45017930675287154
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 8 left_junction_len : 22 right_junction_len : 22
+Score : 0.43271015301851895
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 8 left_junction_len : 22 right_junction_len : 24
+Score : 0.4459056937598324
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 22
+Score : 0.40267519337877455
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 26
+Score : 0.27196210789329434
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 21
+Score : 0.43281046160343684
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 8 left_junction_len : 21 right_junction_len : 20
+Score : 0.4129982772908033
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 9 left_junction_len : 21 right_junction_len : 20
+Score : 0.4636451807570904
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 10 left_junction_len : 22 right_junction_len : 23
+Score : 0.47617440761080004
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 22 right_junction_len : 20
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 9 left_junction_len : 20 right_junction_len : 21
+Score : 0.4382641644856482
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 20
+Score : 0.3502470309158514
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 26
+Score : 0.3522227290565961
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 9 left_junction_len : 20 right_junction_len : 22
+Score : 0.47238733547660033
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 9 left_junction_len : 21 right_junction_len : 20
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 20
+Score : 0.4279934540547483
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 21
+Score : 0.34826570157122383
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 21
+Score : 0.43281046160343684
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 9 left_junction_len : 20 right_junction_len : 22
+Score : 0.4304641008703112
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 9 left_junction_len : 23 right_junction_len : 23
+Score : 0.4246276394921835
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 10 left_junction_len : 20 right_junction_len : 21
+Score : 0.46780019996524846
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 25
+Score : 0.37442759351478305
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 26
+Score : 0.3140204155627572
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 20
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 8 left_junction_len : 21 right_junction_len : 22
+Score : 0.435871389075791
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 8 left_junction_len : 22 right_junction_len : 23
+Score : 0.44349705437338305
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 8 left_junction_len : 23 right_junction_len : 23
+Score : 0.4246276394921835
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 22
+Score : 0.3453463257711274
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 26
+Score : 0.3579911202004652
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 9 left_junction_len : 22 right_junction_len : 24
+Score : 0.4278912087614529
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 9 left_junction_len : 21 right_junction_len : 22
+Score : 0.4545478441224976
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 8 left_junction_len : 23 right_junction_len : 25
+Score : 0.43981335167426927
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 8 left_junction_len : 21 right_junction_len : 23
+Score : 0.4805333038503653
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 25
+Score : 0.39008862431072405
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 21
+Score : 0.3629200509874576
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 9 left_junction_len : 23 right_junction_len : 24
+Score : 0.4287517226183102
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 8 left_junction_len : 24 right_junction_len : 24
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 9 left_junction_len : 23 right_junction_len : 22
+Score : 0.4487955616478265
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 7 left_junction_len : 23 right_junction_len : 24
+Score : 0.4104760574799591
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 6 left_junction_len : 22 right_junction_len : 25
+Score : 0.4043263425515451
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 10 left_junction_len : 20 right_junction_len : 23
+Score : 0.4664544699161721
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 25
+Score : 0.42864977826741113
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 25
+Score : 0.32016185523612933
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 6 left_junction_len : 22 right_junction_len : 26
+Score : 0.4060796294683955
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 7 left_junction_len : 22 right_junction_len : 26
+Score : 0.4033906292090714
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 6 left_junction_len : 21 right_junction_len : 26
+Score : 0.39179829338897254
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 8 left_junction_len : 22 right_junction_len : 26
+Score : 0.40079198950807027
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 5 left_junction_len : 21 right_junction_len : 25
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 26
+Score : 0.389115384595918
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 27
+Score : 0.4171909707321074
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 6 left_junction_len : 22 right_junction_len : 27
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 26
+Score : 0.41117444746687964
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 7 left_junction_len : 22 right_junction_len : 26
+Score : 0.4246276394921835
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 6 left_junction_len : 23 right_junction_len : 25
+Score : 0.42231017003185856
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 9 left_junction_len : 22 right_junction_len : 23
+Score : 0.4278912087614529
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 26
+Score : 0.4602253241145612
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 10 left_junction_len : 23 right_junction_len : 25
+Score : 0.4664544699161721
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 27
+Score : 0.4382641644856482
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 9 left_junction_len : 21 right_junction_len : 26
+Score : 0.455892790077154
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 7 left_junction_len : 21 right_junction_len : 26
+Score : 0.4472143718961807
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 8 left_junction_len : 21 right_junction_len : 27
+Score : 0.45242132038265603
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 11 left_junction_len : 23 right_junction_len : 23
+Score : 0.4545478441224976
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 9 left_junction_len : 22 right_junction_len : 26
+Score : 0.417979927388368
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 6 left_junction_len : 23 right_junction_len : 26
+Score : 0.47505683754854194
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 10 left_junction_len : 22 right_junction_len : 25
+Score : 0.43660588014905666
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 26
+Score : 0.36006595504341743
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 27
+Score : 0.4382641644856482
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 11 left_junction_len : 22 right_junction_len : 21
+Score : 0.46087925911128913
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 11 left_junction_len : 22 right_junction_len : 24
+Score : 0.45598298362944945
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 9 left_junction_len : 23 right_junction_len : 26
+Score : 0.4350352721828663
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 11 left_junction_len : 22 right_junction_len : 26
+Score : 0.43733809559874065
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 10 left_junction_len : 22 right_junction_len : 21
+Score : 0.48841291275467963
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 25
+Score : 0.32016185523612933
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 8 left_junction_len : 23 right_junction_len : 26
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 7 left_junction_len : 20 right_junction_len : 21
+Score : 0.34826570157122383
+<First optimization>
+[parameters] left_out_indicator_len : 11 right_out_indicator_len : 10 left_junction_len : 21 right_junction_len : 25
+Score : 0.4985179480494678
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 26
+Score : 0.3928793555339332
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 26
+Score : 0.27196210789329434
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 11 left_junction_len : 24 right_junction_len : 22
+Score : 0.5216029970463427
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 26
+Score : 0.27196210789329434
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 8 left_junction_len : 20 right_junction_len : 26
+Score : 0.39105945653687924
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 9 left_junction_len : 20 right_junction_len : 26
+Score : 0.40874664885589235
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 10 left_junction_len : 21 right_junction_len : 27
+Score : 0.4205440688548265
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 10 left_junction_len : 20 right_junction_len : 25
+Score : 0.4589105433477645
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 10 left_junction_len : 20 right_junction_len : 26
+Score : 0.3382805013908916
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 11 left_junction_len : 21 right_junction_len : 26
+Score : 0.3963795935126572
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 11 left_junction_len : 20 right_junction_len : 27
+Score : 0.39923621458616404
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 11 left_junction_len : 20 right_junction_len : 26
+Score : 0.3382805013908916
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 11 left_junction_len : 20 right_junction_len : 25
+Score : 0.43121503744701906
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 12 left_junction_len : 21 right_junction_len : 27
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 12 left_junction_len : 21 right_junction_len : 22
+Score : 0.4643732240947133
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 10 left_junction_len : 20 right_junction_len : 26
+Score : 0.4121958979550668
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 11 left_junction_len : 20 right_junction_len : 26
+Score : 0.4189781770516182
+<First optimization>
+[parameters] left_out_indicator_len : 11 right_out_indicator_len : 8 left_junction_len : 24 right_junction_len : 24
+Score : 0.5138185775890359
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 10 left_junction_len : 20 right_junction_len : 25
+Score : 0.3570745275656546
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 13 left_junction_len : 21 right_junction_len : 22
+Score : 0.5032214416340184
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 11 left_junction_len : 20 right_junction_len : 28
+Score : 0.3425417825592963
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 10 left_junction_len : 20 right_junction_len : 28
+Score : 0.3425417825592963
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 11 left_junction_len : 20 right_junction_len : 29
+Score : 0.3838123087349833
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 11 left_junction_len : 20 right_junction_len : 28
+Score : 0.3745471613492951
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 10 left_junction_len : 21 right_junction_len : 29
+Score : 0.3413522602902339
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 10 left_junction_len : 21 right_junction_len : 29
+Score : 0.3676851701199936
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 11 left_junction_len : 21 right_junction_len : 28
+Score : 0.3493195315813875
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 11 left_junction_len : 22 right_junction_len : 29
+Score : 0.3762009402951728
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 12 left_junction_len : 21 right_junction_len : 28
+Score : 0.409558008808677
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 6 left_junction_len : 20 right_junction_len : 22
+Score : 0.3303363343068806
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 11 left_junction_len : 22 right_junction_len : 29
+Score : 0.4198675892265043
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 10 left_junction_len : 20 right_junction_len : 29
+Score : 0.40966707081101406
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 12 left_junction_len : 20 right_junction_len : 29
+Score : 0.44359281719469207
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 13 left_junction_len : 23 right_junction_len : 29
+Score : 0.4231889818210999
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 11 left_junction_len : 23 right_junction_len : 28
+Score : 0.3903192097450843
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 10 left_junction_len : 22 right_junction_len : 28
+Score : 0.3473356214283976
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 12 left_junction_len : 23 right_junction_len : 27
+Score : 0.5065157421532785
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 10 left_junction_len : 22 right_junction_len : 28
+Score : 0.3667840604572862
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 10 left_junction_len : 23 right_junction_len : 29
+Score : 0.36006595504341743
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 11 left_junction_len : 24 right_junction_len : 29
+Score : 0.3956497182325241
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 10 left_junction_len : 24 right_junction_len : 29
+Score : 0.48379088099082407
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 13 left_junction_len : 21 right_junction_len : 29
+Score : 0.409558008808677
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 14 left_junction_len : 21 right_junction_len : 29
+Score : 0.44581094306669755
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 15 left_junction_len : 22 right_junction_len : 29
+Score : 0.4129982772908033
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 15 left_junction_len : 23 right_junction_len : 29
+Score : 0.5065157421532785
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 11 left_junction_len : 23 right_junction_len : 28
+Score : 0.3433518146597858
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 12 left_junction_len : 23 right_junction_len : 28
+Score : 0.384681416026029
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 10 left_junction_len : 23 right_junction_len : 29
+Score : 0.33532509046829456
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 15 left_junction_len : 20 right_junction_len : 29
+Score : 0.4198675892265043
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 14 left_junction_len : 20 right_junction_len : 27
+Score : 0.48061142632467685
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 11 left_junction_len : 22 right_junction_len : 29
+Score : 0.3570745275656546
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 11 left_junction_len : 24 right_junction_len : 29
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 17 left_junction_len : 21 right_junction_len : 29
+Score : 0.4350352721828663
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 16 left_junction_len : 21 right_junction_len : 29
+Score : 0.3772040041313987
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 16 left_junction_len : 21 right_junction_len : 28
+Score : 0.40443718548876323
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 16 left_junction_len : 23 right_junction_len : 29
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 16 left_junction_len : 20 right_junction_len : 29
+Score : 0.3956497182325241
+<First optimization>
+[parameters] left_out_indicator_len : 12 right_out_indicator_len : 11 left_junction_len : 21 right_junction_len : 29
+Score : 0.5080019708484551
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 17 left_junction_len : 20 right_junction_len : 27
+Score : 0.4756569200756963
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 9 left_junction_len : 20 right_junction_len : 29
+Score : 0.366905452810222
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 17 left_junction_len : 20 right_junction_len : 28
+Score : 0.40278658294131375
+<First optimization>
+[parameters] left_out_indicator_len : 13 right_out_indicator_len : 18 left_junction_len : 29 right_junction_len : 21
+Score : 0.5588449215076451
+<First optimization>
+[parameters] left_out_indicator_len : 24 right_out_indicator_len : 16 left_junction_len : 29 right_junction_len : 21
+Score : 0.6070973901477821
+<First optimization>
+[parameters] left_out_indicator_len : 10 right_out_indicator_len : 16 left_junction_len : 20 right_junction_len : 29
+Score : 0.46373171328180524
+<First optimization>
+[parameters] left_out_indicator_len : 24 right_out_indicator_len : 18 left_junction_len : 20 right_junction_len : 28
+Score : 0.596240080829979
+<First optimization>
+[parameters] left_out_indicator_len : 8 right_out_indicator_len : 11 left_junction_len : 23 right_junction_len : 28
+Score : 0.3678063561094682
+<First optimization>
+[parameters] left_out_indicator_len : 9 right_out_indicator_len : 9 left_junction_len : 21 right_junction_len : 29
+Score : 0.3864142270070037
+<First optimization>
+[parameters] left_out_indicator_len : 23 right_out_indicator_len : 13 left_junction_len : 29 right_junction_len : 29
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 23 right_out_indicator_len : 9 left_junction_len : 20 right_junction_len : 29
+Score : 0.5748937944700327
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 18 left_junction_len : 20 right_junction_len : 20
+Score : 0.44053551396480417
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 16 left_junction_len : 20 right_junction_len : 21
+Score : 0.4830682286695574
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 19 left_junction_len : 22 right_junction_len : 20
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 24 right_out_indicator_len : 16 left_junction_len : 20 right_junction_len : 20
+Score : 0.6058698907604174
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 9 left_junction_len : 22 right_junction_len : 29
+Score : 0.33934783694232196
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 17 left_junction_len : 20 right_junction_len : 26
+Score : 0.3963795935126572
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 17 left_junction_len : 20 right_junction_len : 24
+Score : 0.474975885346139
+<First optimization>
+[parameters] left_out_indicator_len : 16 right_out_indicator_len : 5 left_junction_len : 23 right_junction_len : 20
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 16 right_out_indicator_len : 12 left_junction_len : 29 right_junction_len : 20
+Score : 0.5746334054706239
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 19 left_junction_len : 20 right_junction_len : 26
+Score : 0.47685034414484306
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 16 left_junction_len : 20 right_junction_len : 27
+Score : 0.3620110773292704
+<First optimization>
+[parameters] left_out_indicator_len : 6 right_out_indicator_len : 16 left_junction_len : 20 right_junction_len : 26
+Score : 0.4595690858718138
+<First optimization>
+[parameters] left_out_indicator_len : 15 right_out_indicator_len : 18 left_junction_len : 29 right_junction_len : 29
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 5 right_out_indicator_len : 15 left_junction_len : 29 right_junction_len : 20
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 17 right_out_indicator_len : 5 left_junction_len : 29 right_junction_len : 29
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 13 right_out_indicator_len : 24 left_junction_len : 29 right_junction_len : 20
+Score : 0.5739576643660148
+<First optimization>
+[parameters] left_out_indicator_len : 21 right_out_indicator_len : 23 left_junction_len : 29 right_junction_len : 20
+Score : 0.610825123600475
+<First optimization>
+[parameters] left_out_indicator_len : 13 right_out_indicator_len : 15 left_junction_len : 20 right_junction_len : 29
+Score : 0.5355614594088357
+<First optimization>
+[parameters] left_out_indicator_len : 13 right_out_indicator_len : 12 left_junction_len : 20 right_junction_len : 20
+Score : 0.5474831929849758
+<First optimization>
+[parameters] left_out_indicator_len : 24 right_out_indicator_len : 24 left_junction_len : 20 right_junction_len : 29
+Score : 0.6073698103462095
+<First optimization>
+[parameters] left_out_indicator_len : 24 right_out_indicator_len : 5 left_junction_len : 25 right_junction_len : 29
+Score : 1
+<First optimization>
+[parameters] left_out_indicator_len : 18 right_out_indicator_len : 18 left_junction_len : 25 right_junction_len : 20
+Score : 0.5922201957132058
+<First optimization>
+[parameters] left_out_indicator_len : 7 right_out_indicator_len : 10 left_junction_len : 22 right_junction_len : 29
+Score : 0.33934783694232196
+<First optimization>
+[parameters] left_out_indicator_len : 24 right_out_indicator_len : 11 left_junction_len : 25 right_junction_len : 20
+Score : 0.611226307631734
+<First optimization>
+[parameters] left_out_indicator_len : 24 right_out_indicator_len : 20 left_junction_len : 29 right_junction_len : 27
+Score : 1
+Minimum Score : 0.27196210789329434
+Preparing for second optimization ------------------------------------------------------------>
+Making test data using NHEJ data
+Making test data using UNMODIFIED data
+Making test data using HDR data
+Making test data using Mixed HDR-NHEJ data
+Running second optimization : Optimizing Out-Out alignment thresholds ------------------------>
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5488135039273248 outright_align_threshold : 0.978618342232764
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7151893663724195 outright_align_threshold : 0.7991585642167236
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6027633760716439 outright_align_threshold : 0.46147936225293185
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5448831829968969 outright_align_threshold : 0.7805291762864555
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.4236547993389047 outright_align_threshold : 0.11827442586893322
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6458941130666561 outright_align_threshold : 0.6399210213275238
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.4375872112626925 outright_align_threshold : 0.1433532874090464
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.8917730007820798 outright_align_threshold : 0.9446689170495839
+Score : 0.2798074260364452
+<Second optimization>
+[parameters] outleft_align_threshold : 0.9636627605010293 outright_align_threshold : 0.5218483217500717
+Score : 0.30516133351880004
+<Second optimization>
+[parameters] outleft_align_threshold : 0.3834415188257777 outright_align_threshold : 0.4146619399905236
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7917250380826646 outright_align_threshold : 0.26455561210462697
+Score : 0.30516133351880004
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5288949197529045 outright_align_threshold : 0.7742336894342167
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5680445610939323 outright_align_threshold : 0.45615033221654855
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.925596638292661 outright_align_threshold : 0.5684339488686485
+Score : 0.30516133351880004
+<Second optimization>
+[parameters] outleft_align_threshold : 0.07103605819788694 outright_align_threshold : 0.018789800436355142
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.08712929970154071 outright_align_threshold : 0.6176354970758771
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.02021839744032572 outright_align_threshold : 0.6120957227224214
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.832619845547938 outright_align_threshold : 0.6169339968747569
+Score : 0.30516133351880004
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7781567509498505 outright_align_threshold : 0.9437480785146242
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.8700121482468192 outright_align_threshold : 0.6818202991034834
+Score : 0.30516133351880004
+initializing Y
+initializing inference method
+adding kernel and likelihood as parameters
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6743392238418839 outright_align_threshold : 0.8946278453740012
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.4779286292536702 outright_align_threshold : 0.8721820655890369
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7253181829417742 outright_align_threshold : 0.8650328283684995
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.718721126537949 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6668542394964339 outright_align_threshold : 0.8179619626119764
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7343815120807923 outright_align_threshold : 0.947404362051401
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5493231391685381 outright_align_threshold : 0.8635356745889031
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.3599826036713848 outright_align_threshold : 1.0
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6177661259410288 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.4920618757145361 outright_align_threshold : 0.8148878382920713
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5834593153364707 outright_align_threshold : 0.9416224789519849
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.0 outright_align_threshold : 1.0
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7672490907768258 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7035431036923967 outright_align_threshold : 0.825451676642302
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.3919435310424602 outright_align_threshold : 0.7295724908425931
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5182478857037128 outright_align_threshold : 0.8315278091122935
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.0 outright_align_threshold : 0.31168027611869803
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5191968297344994 outright_align_threshold : 0.9125922679590281
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 1.0 outright_align_threshold : 0.0
+Score : 0.30516133351880004
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7560477946181521 outright_align_threshold : 0.9686991469755647
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6135397318392912 outright_align_threshold : 0.8725652335731124
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7526180101930758 outright_align_threshold : 0.9125276732708907
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5769515944455352 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6504811320688499 outright_align_threshold : 0.948946323482443
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6037476210644402 outright_align_threshold : 0.8147050344511526
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5020939126283867 outright_align_threshold : 0.8693016920781637
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5221646316171502 outright_align_threshold : 0.7967726412584031
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6777401074964645 outright_align_threshold : 0.7908186487112485
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.22282208913714863 outright_align_threshold : 0.24031575840045355
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6055128615796715 outright_align_threshold : 0.0
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6691480056646476 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5619706795921537 outright_align_threshold : 0.9054466021222495
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7101441346467032 outright_align_threshold : 0.9085025484620631
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5489655023566035 outright_align_threshold : 0.9466375529325384
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6283589420960796 outright_align_threshold : 0.9145187608905525
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5848982164534878 outright_align_threshold : 0.9765040226193222
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.48718829598379954 outright_align_threshold : 0.8437390542312184
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6333564114395712 outright_align_threshold : 0.796061548076336
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.4903769215933436 outright_align_threshold : 0.9274922568916616
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6804492213284806 outright_align_threshold : 0.9317210608555689
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7606035412590089 outright_align_threshold : 0.9407966308302264
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7433666966452579 outright_align_threshold : 0.8404591118912836
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.48936393728000294 outright_align_threshold : 0.9014439308904041
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5145815467428316 outright_align_threshold : 0.9525715345887519
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.694150046834825 outright_align_threshold : 0.9710643610207678
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.0 outright_align_threshold : 0.8099801492731632
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6982533305556464 outright_align_threshold : 0.8051000776095532
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5823482435467019 outright_align_threshold : 0.859798307129438
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7257259330013935 outright_align_threshold : 0.8235371385064546
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7546780953624135 outright_align_threshold : 0.8762835955917609
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6311430548465208 outright_align_threshold : 0.8351694504596924
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.26017765363038775 outright_align_threshold : 0.0
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5219079299343813 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6211213565437143 outright_align_threshold : 0.9665896834780607
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7473293951082856 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5902843228799383 outright_align_threshold : 0.7787793922989815
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6547494504883626 outright_align_threshold : 0.8643730799944188
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5934960490073204 outright_align_threshold : 0.8993420271780039
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.15028842296323974 outright_align_threshold : 0.4326732717856382
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5782794985334835 outright_align_threshold : 0.7968584263404707
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7075381435812054 outright_align_threshold : 0.9413503149425784
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.649172273788913 outright_align_threshold : 0.9821103832443028
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7769168584675791 outright_align_threshold : 0.9705581201842617
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6872525892364766 outright_align_threshold : 0.8615889862877291
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5424892958829113 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5192587829291435 outright_align_threshold : 0.9805212292461193
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5688140064639323 outright_align_threshold : 0.880698667079187
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5032803450971509 outright_align_threshold : 0.8211234580746399
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6132480057605731 outright_align_threshold : 0.936554700938223
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5572114842164798 outright_align_threshold : 0.8328195098446648
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7734089234323736 outright_align_threshold : 0.9076639172331623
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7216111210593376 outright_align_threshold : 0.9747668710262919
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6057705688361438 outright_align_threshold : 0.7916961374448788
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.49217384489003585 outright_align_threshold : 0.9686912243769052
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5040427508342166 outright_align_threshold : 0.7886977936501457
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5587288966973697 outright_align_threshold : 0.7613444819439413
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6555209009521359 outright_align_threshold : 0.9168713072785579
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6400569617739095 outright_align_threshold : 0.8881464788108668
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5336647495619562 outright_align_threshold : 0.888745843316151
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.49619904539873183 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6426314102153868 outright_align_threshold : 0.7756653467245451
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5876869241526289 outright_align_threshold : 0.8335308815640182
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6686053762966263 outright_align_threshold : 0.8420422891451474
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6424381599200292 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.4653515228973102 outright_align_threshold : 0.9065308484104241
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.45203763528097823 outright_align_threshold : 0.870546454362198
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.4624778834900861 outright_align_threshold : 0.8490471740433121
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5242662573426382 outright_align_threshold : 0.857225307014696
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.0 outright_align_threshold : 0.13937035984458157
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6162662082081685 outright_align_threshold : 0.7702397295847929
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.4629712885916349 outright_align_threshold : 0.8860617424305605
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5413696003808494 outright_align_threshold : 0.922731691380428
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.5818721272314079 outright_align_threshold : 0.29907443717613585
+Score : 0.2805912871629441
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6566754263911511 outright_align_threshold : 0.7924916752381853
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.47071242647862815 outright_align_threshold : 0.9405182450015157
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6945508753916638 outright_align_threshold : 1.0
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7292013007806906 outright_align_threshold : 0.8460940611058005
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.7017432453486745 outright_align_threshold : 0.8850084258625365
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.6102411360045554 outright_align_threshold : 0.8466415713383851
+Score : 0.25537380023169165
+<Second optimization>
+[parameters] outleft_align_threshold : 0.779533252984901 outright_align_threshold : 0.0
+Score : 0.2805912871629441
+Minimum Score : 0.25537380023169165
+Preparing for third optimization ------------------------------------------------------------->
+Making test data using NHEJ data
+Making test data using UNMODIFIED data
+Making test data using HDR data
+Making test data using Mixed HDR-NHEJ data
+Running third optimization : Optimizing In-Out indicators ------------------------------------>
+This is not knock-in sample : left_in_indicator_len 19 right_in_indicator_len : 19
+Preparing for last optimization -------------------------------------------------------------->
+Making test data using HDR data
+Making test data using Mixed HDR-NHEJ data
+Running last optimization : Optimizing In-Out alignment thresholds --------------------------->
+This is not knock-in sample : inleft_align_threshold 1.0 inright_align_threshold : 1.0
+Compliting optimization
+Starting whole analysis
+Parameter:
+{'amplicon_seq': 'AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC', 'guide_seq': 'GGGTTGTAGCGCAGCCCGTG', 'expected_ki_amplicon_seq': 'AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC', 'donor_seq': 'TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT', 'left_homology_arm_len': 20, 'right_homology_arm_len': 20, 'left_junction_len': '20', 'right_junction_len': '26', 'left_out_indicator_len': '5', 'right_out_indicator_len': '6', 'left_in_indicator_len': '19', 'right_in_indicator_len': '19', 'outleft_align_threshold': 0.5488135039273248, 'outright_align_threshold': 0.978618342232764, 'inleft_align_threshold': 1.0, 'inright_align_threshold': 1.0, 'optimization_mode': 'OFF'}
+Analyzing NHEJ data -------------------------------------------------------------------------->
+INPUT :
+amplicon_seq : AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC
+guide_seq : GGGTTGTAGCGCAGCCCGTG
+expected_ki_amplicon_seq : AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC
+donor_seq : TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+left_homology_arm_len : 20
+right_homology_arm_len : 20
+left_junction_len : 20
+right_junction_len : 26
+left_out_indicator_len : 5
+right_out_indicator_len : 6
+left_in_indicator_len : 19
+right_in_indicator_len : 19
+outleft_align_threshold : 0.5488135039273248
+outright_align_threshold : 0.978618342232764
+inleft_align_threshold : 1.0
+inright_align_threshold : 1.0
+optimization_mode : OFF
+Reading data table...(1)
+Defining specific sequences for identifying alleles...(2)
+Out-Left indicator sequence : TCTCC
+Leftside junction : CGGGGGTTGTAGCGCAGCCC
+Rightside junction : GTGCGGCCCCTCGGAGTCGTAGCTGT
+Out-Right indicator sequence : CATGGT
+Leftside homology arm : CGGGGGTTGTAGCGCAGCCC
+Rightside homology arm : GTGCGGCCCCTCGGAGTCGT
+Untreated sequence : CGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGT
+In-Left indicator sequence : TTTTTTTTTTTTTTTTTTT
+In-Right indicator sequence :TTTTTTTTTTTTTTTTTTT
+Left cutout sequence :TCTCCCGGGGGTTGTAGCGCAGCCC
+Right cutout sequence :GTGCGGCCCCTCGGAGTCGTAGCTGTCATGGT
+Left cutout maximum deletion sequence :TCTCCCGGGGGTTGTAGCGC
+Right cutout maximum deletion sequence :GT
+Making reference sequences using the specific sequences...(3)
+Prepairing for recognization...(4)
+Classifying alleles...(5)
+0(0) / 1155(8290) allele types (reads) have "has_outout_indicators" flag.
+1070(8098) / 1155(8290) allele types (reads) have "has_outout_rc_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "has_outout_reversible_indicators" flag.
+1070(8098) / 1155(8290) allele types (reads) have "has_outout_any_indicators" flag.
+85(192) / 1155(8290) allele types (reads) have "has_outout_no_indicators" flag.
+5(14) / 1155(8290) allele types (reads) have "is_untreated" flag.
+1065(8084) / 1155(8290) allele types (reads) have "is_treated" flag.
+0(0) / 1155(8290) allele types (reads) have "is_perfect_outout_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "has_leftinout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "has_rightinout_indicators" flag.
+85(192) / 1155(8290) allele types (reads) have "no_outout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "multiple_outout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "both_inout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "leftonly_inout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "rightonly_inout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "both_rc_inout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "leftonly_rc_inout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "rightonly_rc_inout_indicators" flag.
+1070(8098) / 1155(8290) allele types (reads) have "no_inout_indicators" flag.
+1155(8290) / 1155(8290) allele types (reads) have "no_leftinout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "left_perfect_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "left_nearly_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "left_nhej_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "left_imperfect_ki_complex" flag.
+0(0) / 1155(8290) allele types (reads) have "other_left_mutations" flag.
+1155(8290) / 1155(8290) allele types (reads) have "no_rightinout_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "right_perfect_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "right_nearly_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "right_nhej_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "right_imperfect_ki_complex" flag.
+0(0) / 1155(8290) allele types (reads) have "other_right_mutations" flag.
+1155(8290) / 1155(8290) allele types (reads) have "no_leftinout_rc_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "left_rc_nhej_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "left_rc_imperfect_ki_complex" flag.
+0(0) / 1155(8290) allele types (reads) have "other_left_rc_mutations" flag.
+1155(8290) / 1155(8290) allele types (reads) have "no_rightinout_rc_indicators" flag.
+0(0) / 1155(8290) allele types (reads) have "right_rc_nhej_ki" flag.
+0(0) / 1155(8290) allele types (reads) have "right_rc_imperfect_ki_complex" flag.
+0(0) / 1155(8290) allele types (reads) have "other_right_rc_mutations" flag.
+0(0) / 1155(8290) allele types (reads) have "donor_insertion" flag.
+5(14) / 1155(8290) allele types (reads) have "untreated" flag.
+0(0) / 1155(8290) allele types (reads) have "unexpected_mutations" flag.
+3(12) / 1155(8290) allele types (reads) have "overall_edited_substitution" flag.
+413(3886) / 1155(8290) allele types (reads) have "overall_edited_insertion" flag.
+649(4186) / 1155(8290) allele types (reads) have "overall_edited_deletion" flag.
+0(0) / 1155(8290) allele types (reads) have "LEFT_PRECISE_KNOCK_IN" flag.
+0(0) / 1155(8290) allele types (reads) have "LEFT_IMPRECISE_KNOCK_IN" flag.
+0(0) / 1155(8290) allele types (reads) have "LEFT_IMPRECISE KNOCK_IN_COMPLEX" flag.
+0(0) / 1155(8290) allele types (reads) have "LEFT_OTHER_MUATIONS" flag.
+1155(8290) / 1155(8290) allele types (reads) have "LEFT_NO_DETECTED" flag.
+0(0) / 1155(8290) allele types (reads) have "RIGHT_PRECISE_KNOCK_IN" flag.
+0(0) / 1155(8290) allele types (reads) have "RIGHT_IMPRECISE_KNOCK_IN" flag.
+0(0) / 1155(8290) allele types (reads) have "RIGHT_IMPRECISE KNOCK_IN_COMPLEX" flag.
+0(0) / 1155(8290) allele types (reads) have "RIGHT_OTHER_MUATIONS" flag.
+1155(8290) / 1155(8290) allele types (reads) have "RIGHT_NO_DETECTED" flag.
+0(0) / 1155(8290) allele types (reads) have "PRECISE_KNOCK_IN" flag.
+0(0) / 1155(8290) allele types (reads) have "IMPRECISE_KNOCK_IN" flag.
+413(3886) / 1155(8290) allele types (reads) have "INSERT_EDITING" flag.
+649(4186) / 1155(8290) allele types (reads) have "DELETION_EDITING" flag.
+3(12) / 1155(8290) allele types (reads) have "SUBSTITUTION_EDITING" flag.
+5(14) / 1155(8290) allele types (reads) have "UNTREATED" flag.
+85(192) / 1155(8290) allele types (reads) have "OTHERS" flag.
+Analyzing UNMODIFIED data -------------------------------------------------------------------->
+INPUT :
+amplicon_seq : AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC
+guide_seq : GGGTTGTAGCGCAGCCCGTG
+expected_ki_amplicon_seq : AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC
+donor_seq : TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+left_homology_arm_len : 20
+right_homology_arm_len : 20
+left_junction_len : 20
+right_junction_len : 26
+left_out_indicator_len : 5
+right_out_indicator_len : 6
+left_in_indicator_len : 19
+right_in_indicator_len : 19
+outleft_align_threshold : 0.5488135039273248
+outright_align_threshold : 0.978618342232764
+inleft_align_threshold : 1.0
+inright_align_threshold : 1.0
+optimization_mode : OFF
+Reading data table...(1)
+Defining specific sequences for identifying alleles...(2)
+Out-Left indicator sequence : TCTCC
+Leftside junction : CGGGGGTTGTAGCGCAGCCC
+Rightside junction : GTGCGGCCCCTCGGAGTCGTAGCTGT
+Out-Right indicator sequence : CATGGT
+Leftside homology arm : CGGGGGTTGTAGCGCAGCCC
+Rightside homology arm : GTGCGGCCCCTCGGAGTCGT
+Untreated sequence : CGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGT
+In-Left indicator sequence : TTTTTTTTTTTTTTTTTTT
+In-Right indicator sequence :TTTTTTTTTTTTTTTTTTT
+Left cutout sequence :TCTCCCGGGGGTTGTAGCGCAGCCC
+Right cutout sequence :GTGCGGCCCCTCGGAGTCGTAGCTGTCATGGT
+Left cutout maximum deletion sequence :TCTCCCGGGGGTTGTAGCGC
+Right cutout maximum deletion sequence :GT
+Making reference sequences using the specific sequences...(3)
+Prepairing for recognization...(4)
+Classifying alleles...(5)
+0(0) / 333(2837) allele types (reads) have "has_outout_indicators" flag.
+307(2797) / 333(2837) allele types (reads) have "has_outout_rc_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "has_outout_reversible_indicators" flag.
+307(2797) / 333(2837) allele types (reads) have "has_outout_any_indicators" flag.
+26(40) / 333(2837) allele types (reads) have "has_outout_no_indicators" flag.
+270(2592) / 333(2837) allele types (reads) have "is_untreated" flag.
+37(205) / 333(2837) allele types (reads) have "is_treated" flag.
+0(0) / 333(2837) allele types (reads) have "is_perfect_outout_ki" flag.
+0(0) / 333(2837) allele types (reads) have "has_leftinout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "has_rightinout_indicators" flag.
+26(40) / 333(2837) allele types (reads) have "no_outout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "multiple_outout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "both_inout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "leftonly_inout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "rightonly_inout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "both_rc_inout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "leftonly_rc_inout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "rightonly_rc_inout_indicators" flag.
+307(2797) / 333(2837) allele types (reads) have "no_inout_indicators" flag.
+333(2837) / 333(2837) allele types (reads) have "no_leftinout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "left_perfect_ki" flag.
+0(0) / 333(2837) allele types (reads) have "left_nearly_ki" flag.
+0(0) / 333(2837) allele types (reads) have "left_nhej_ki" flag.
+0(0) / 333(2837) allele types (reads) have "left_imperfect_ki_complex" flag.
+0(0) / 333(2837) allele types (reads) have "other_left_mutations" flag.
+333(2837) / 333(2837) allele types (reads) have "no_rightinout_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "right_perfect_ki" flag.
+0(0) / 333(2837) allele types (reads) have "right_nearly_ki" flag.
+0(0) / 333(2837) allele types (reads) have "right_nhej_ki" flag.
+0(0) / 333(2837) allele types (reads) have "right_imperfect_ki_complex" flag.
+0(0) / 333(2837) allele types (reads) have "other_right_mutations" flag.
+333(2837) / 333(2837) allele types (reads) have "no_leftinout_rc_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "left_rc_nhej_ki" flag.
+0(0) / 333(2837) allele types (reads) have "left_rc_imperfect_ki_complex" flag.
+0(0) / 333(2837) allele types (reads) have "other_left_rc_mutations" flag.
+333(2837) / 333(2837) allele types (reads) have "no_rightinout_rc_indicators" flag.
+0(0) / 333(2837) allele types (reads) have "right_rc_nhej_ki" flag.
+0(0) / 333(2837) allele types (reads) have "right_rc_imperfect_ki_complex" flag.
+0(0) / 333(2837) allele types (reads) have "other_right_rc_mutations" flag.
+0(0) / 333(2837) allele types (reads) have "donor_insertion" flag.
+270(2592) / 333(2837) allele types (reads) have "untreated" flag.
+0(0) / 333(2837) allele types (reads) have "unexpected_mutations" flag.
+1(1) / 333(2837) allele types (reads) have "overall_edited_substitution" flag.
+3(6) / 333(2837) allele types (reads) have "overall_edited_insertion" flag.
+33(198) / 333(2837) allele types (reads) have "overall_edited_deletion" flag.
+0(0) / 333(2837) allele types (reads) have "LEFT_PRECISE_KNOCK_IN" flag.
+0(0) / 333(2837) allele types (reads) have "LEFT_IMPRECISE_KNOCK_IN" flag.
+0(0) / 333(2837) allele types (reads) have "LEFT_IMPRECISE KNOCK_IN_COMPLEX" flag.
+0(0) / 333(2837) allele types (reads) have "LEFT_OTHER_MUATIONS" flag.
+333(2837) / 333(2837) allele types (reads) have "LEFT_NO_DETECTED" flag.
+0(0) / 333(2837) allele types (reads) have "RIGHT_PRECISE_KNOCK_IN" flag.
+0(0) / 333(2837) allele types (reads) have "RIGHT_IMPRECISE_KNOCK_IN" flag.
+0(0) / 333(2837) allele types (reads) have "RIGHT_IMPRECISE KNOCK_IN_COMPLEX" flag.
+0(0) / 333(2837) allele types (reads) have "RIGHT_OTHER_MUATIONS" flag.
+333(2837) / 333(2837) allele types (reads) have "RIGHT_NO_DETECTED" flag.
+0(0) / 333(2837) allele types (reads) have "PRECISE_KNOCK_IN" flag.
+0(0) / 333(2837) allele types (reads) have "IMPRECISE_KNOCK_IN" flag.
+3(6) / 333(2837) allele types (reads) have "INSERT_EDITING" flag.
+33(198) / 333(2837) allele types (reads) have "DELETION_EDITING" flag.
+1(1) / 333(2837) allele types (reads) have "SUBSTITUTION_EDITING" flag.
+270(2592) / 333(2837) allele types (reads) have "UNTREATED" flag.
+26(40) / 333(2837) allele types (reads) have "OTHERS" flag.
+Analyzing HDR data --------------------------------------------------------------------------->
+INPUT :
+amplicon_seq : AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC
+guide_seq : GGGTTGTAGCGCAGCCCGTG
+expected_ki_amplicon_seq : AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC
+donor_seq : TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+left_homology_arm_len : 20
+right_homology_arm_len : 20
+left_junction_len : 20
+right_junction_len : 26
+left_out_indicator_len : 5
+right_out_indicator_len : 6
+left_in_indicator_len : 19
+right_in_indicator_len : 19
+outleft_align_threshold : 0.5488135039273248
+outright_align_threshold : 0.978618342232764
+inleft_align_threshold : 1.0
+inright_align_threshold : 1.0
+optimization_mode : OFF
+Reading data table...(1)
+Defining specific sequences for identifying alleles...(2)
+Out-Left indicator sequence : TCTCC
+Leftside junction : CGGGGGTTGTAGCGCAGCCC
+Rightside junction : GTGCGGCCCCTCGGAGTCGTAGCTGT
+Out-Right indicator sequence : CATGGT
+Leftside homology arm : CGGGGGTTGTAGCGCAGCCC
+Rightside homology arm : GTGCGGCCCCTCGGAGTCGT
+Untreated sequence : CGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGT
+In-Left indicator sequence : TTTTTTTTTTTTTTTTTTT
+In-Right indicator sequence :TTTTTTTTTTTTTTTTTTT
+Left cutout sequence :TCTCCCGGGGGTTGTAGCGCAGCCC
+Right cutout sequence :GTGCGGCCCCTCGGAGTCGTAGCTGTCATGGT
+Left cutout maximum deletion sequence :TCTCCCGGGGGTTGTAGCGC
+Right cutout maximum deletion sequence :GT
+Making reference sequences using the specific sequences...(3)
+Prepairing for recognization...(4)
+Classifying alleles...(5)
+0(0) / 1(0) allele types (reads) have "has_outout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "has_outout_rc_indicators" flag.
+0(0) / 1(0) allele types (reads) have "has_outout_reversible_indicators" flag.
+0(0) / 1(0) allele types (reads) have "has_outout_any_indicators" flag.
+1(0) / 1(0) allele types (reads) have "has_outout_no_indicators" flag.
+0(0) / 1(0) allele types (reads) have "is_untreated" flag.
+0(0) / 1(0) allele types (reads) have "is_treated" flag.
+0(0) / 1(0) allele types (reads) have "is_perfect_outout_ki" flag.
+0(0) / 1(0) allele types (reads) have "has_leftinout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "has_rightinout_indicators" flag.
+1(0) / 1(0) allele types (reads) have "no_outout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "multiple_outout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "both_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "leftonly_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "rightonly_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "both_rc_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "leftonly_rc_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "rightonly_rc_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "no_inout_indicators" flag.
+1(0) / 1(0) allele types (reads) have "no_leftinout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "left_perfect_ki" flag.
+0(0) / 1(0) allele types (reads) have "left_nearly_ki" flag.
+0(0) / 1(0) allele types (reads) have "left_nhej_ki" flag.
+0(0) / 1(0) allele types (reads) have "left_imperfect_ki_complex" flag.
+0(0) / 1(0) allele types (reads) have "other_left_mutations" flag.
+1(0) / 1(0) allele types (reads) have "no_rightinout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "right_perfect_ki" flag.
+0(0) / 1(0) allele types (reads) have "right_nearly_ki" flag.
+0(0) / 1(0) allele types (reads) have "right_nhej_ki" flag.
+0(0) / 1(0) allele types (reads) have "right_imperfect_ki_complex" flag.
+0(0) / 1(0) allele types (reads) have "other_right_mutations" flag.
+1(0) / 1(0) allele types (reads) have "no_leftinout_rc_indicators" flag.
+0(0) / 1(0) allele types (reads) have "left_rc_nhej_ki" flag.
+0(0) / 1(0) allele types (reads) have "left_rc_imperfect_ki_complex" flag.
+0(0) / 1(0) allele types (reads) have "other_left_rc_mutations" flag.
+1(0) / 1(0) allele types (reads) have "no_rightinout_rc_indicators" flag.
+0(0) / 1(0) allele types (reads) have "right_rc_nhej_ki" flag.
+0(0) / 1(0) allele types (reads) have "right_rc_imperfect_ki_complex" flag.
+0(0) / 1(0) allele types (reads) have "other_right_rc_mutations" flag.
+0(0) / 1(0) allele types (reads) have "donor_insertion" flag.
+0(0) / 1(0) allele types (reads) have "untreated" flag.
+0(0) / 1(0) allele types (reads) have "unexpected_mutations" flag.
+0(0) / 1(0) allele types (reads) have "overall_edited_substitution" flag.
+0(0) / 1(0) allele types (reads) have "overall_edited_insertion" flag.
+0(0) / 1(0) allele types (reads) have "overall_edited_deletion" flag.
+0(0) / 1(0) allele types (reads) have "LEFT_PRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "LEFT_IMPRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "LEFT_IMPRECISE KNOCK_IN_COMPLEX" flag.
+0(0) / 1(0) allele types (reads) have "LEFT_OTHER_MUATIONS" flag.
+1(0) / 1(0) allele types (reads) have "LEFT_NO_DETECTED" flag.
+0(0) / 1(0) allele types (reads) have "RIGHT_PRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "RIGHT_IMPRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "RIGHT_IMPRECISE KNOCK_IN_COMPLEX" flag.
+0(0) / 1(0) allele types (reads) have "RIGHT_OTHER_MUATIONS" flag.
+1(0) / 1(0) allele types (reads) have "RIGHT_NO_DETECTED" flag.
+0(0) / 1(0) allele types (reads) have "PRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "IMPRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "INSERT_EDITING" flag.
+0(0) / 1(0) allele types (reads) have "DELETION_EDITING" flag.
+0(0) / 1(0) allele types (reads) have "SUBSTITUTION_EDITING" flag.
+0(0) / 1(0) allele types (reads) have "UNTREATED" flag.
+1(0) / 1(0) allele types (reads) have "OTHERS" flag.
+Analyzing Mixed HDR-NHEJ data ---------------------------------------------------------------->
+INPUT :
+amplicon_seq : AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC
+guide_seq : GGGTTGTAGCGCAGCCCGTG
+expected_ki_amplicon_seq : AGCCCCAGGGCTCTCAAACCTAGGCCCACCCTGCCCGTCCCCCTTATCTGTTCTCCCGGGGGTTGTAGCGCAGCCCTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGTGCGGCCCCTCGGAGTCGTAGCTGTCATGGTGCGGGAGCTGGGCCCACTCCGGCGGGAAGGTGGCCCTGCTGTACACGAAGCACTGCACCGCGGTGGGCGCTGGCGGCTCCTCTGCGCCCGGGGCCCGGTCCTCCAGCAGCTGTACCCGCAGCACCGTGCGCTGGTACAGGGCCGGGCAACTCTCGAAGTCATCCAGAAAGC
+donor_seq : TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+left_homology_arm_len : 20
+right_homology_arm_len : 20
+left_junction_len : 20
+right_junction_len : 26
+left_out_indicator_len : 5
+right_out_indicator_len : 6
+left_in_indicator_len : 19
+right_in_indicator_len : 19
+outleft_align_threshold : 0.5488135039273248
+outright_align_threshold : 0.978618342232764
+inleft_align_threshold : 1.0
+inright_align_threshold : 1.0
+optimization_mode : OFF
+Reading data table...(1)
+Defining specific sequences for identifying alleles...(2)
+Out-Left indicator sequence : TCTCC
+Leftside junction : CGGGGGTTGTAGCGCAGCCC
+Rightside junction : GTGCGGCCCCTCGGAGTCGTAGCTGT
+Out-Right indicator sequence : CATGGT
+Leftside homology arm : CGGGGGTTGTAGCGCAGCCC
+Rightside homology arm : GTGCGGCCCCTCGGAGTCGT
+Untreated sequence : CGGGGGTTGTAGCGCAGCCCGTGCGGCCCCTCGGAGTCGTAGCTGT
+In-Left indicator sequence : TTTTTTTTTTTTTTTTTTT
+In-Right indicator sequence :TTTTTTTTTTTTTTTTTTT
+Left cutout sequence :TCTCCCGGGGGTTGTAGCGCAGCCC
+Right cutout sequence :GTGCGGCCCCTCGGAGTCGTAGCTGTCATGGT
+Left cutout maximum deletion sequence :TCTCCCGGGGGTTGTAGCGC
+Right cutout maximum deletion sequence :GT
+Making reference sequences using the specific sequences...(3)
+Prepairing for recognization...(4)
+Classifying alleles...(5)
+0(0) / 1(0) allele types (reads) have "has_outout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "has_outout_rc_indicators" flag.
+0(0) / 1(0) allele types (reads) have "has_outout_reversible_indicators" flag.
+0(0) / 1(0) allele types (reads) have "has_outout_any_indicators" flag.
+1(0) / 1(0) allele types (reads) have "has_outout_no_indicators" flag.
+0(0) / 1(0) allele types (reads) have "is_untreated" flag.
+0(0) / 1(0) allele types (reads) have "is_treated" flag.
+0(0) / 1(0) allele types (reads) have "is_perfect_outout_ki" flag.
+0(0) / 1(0) allele types (reads) have "has_leftinout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "has_rightinout_indicators" flag.
+1(0) / 1(0) allele types (reads) have "no_outout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "multiple_outout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "both_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "leftonly_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "rightonly_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "both_rc_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "leftonly_rc_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "rightonly_rc_inout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "no_inout_indicators" flag.
+1(0) / 1(0) allele types (reads) have "no_leftinout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "left_perfect_ki" flag.
+0(0) / 1(0) allele types (reads) have "left_nearly_ki" flag.
+0(0) / 1(0) allele types (reads) have "left_nhej_ki" flag.
+0(0) / 1(0) allele types (reads) have "left_imperfect_ki_complex" flag.
+0(0) / 1(0) allele types (reads) have "other_left_mutations" flag.
+1(0) / 1(0) allele types (reads) have "no_rightinout_indicators" flag.
+0(0) / 1(0) allele types (reads) have "right_perfect_ki" flag.
+0(0) / 1(0) allele types (reads) have "right_nearly_ki" flag.
+0(0) / 1(0) allele types (reads) have "right_nhej_ki" flag.
+0(0) / 1(0) allele types (reads) have "right_imperfect_ki_complex" flag.
+0(0) / 1(0) allele types (reads) have "other_right_mutations" flag.
+1(0) / 1(0) allele types (reads) have "no_leftinout_rc_indicators" flag.
+0(0) / 1(0) allele types (reads) have "left_rc_nhej_ki" flag.
+0(0) / 1(0) allele types (reads) have "left_rc_imperfect_ki_complex" flag.
+0(0) / 1(0) allele types (reads) have "other_left_rc_mutations" flag.
+1(0) / 1(0) allele types (reads) have "no_rightinout_rc_indicators" flag.
+0(0) / 1(0) allele types (reads) have "right_rc_nhej_ki" flag.
+0(0) / 1(0) allele types (reads) have "right_rc_imperfect_ki_complex" flag.
+0(0) / 1(0) allele types (reads) have "other_right_rc_mutations" flag.
+0(0) / 1(0) allele types (reads) have "donor_insertion" flag.
+0(0) / 1(0) allele types (reads) have "untreated" flag.
+0(0) / 1(0) allele types (reads) have "unexpected_mutations" flag.
+0(0) / 1(0) allele types (reads) have "overall_edited_substitution" flag.
+0(0) / 1(0) allele types (reads) have "overall_edited_insertion" flag.
+0(0) / 1(0) allele types (reads) have "overall_edited_deletion" flag.
+0(0) / 1(0) allele types (reads) have "LEFT_PRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "LEFT_IMPRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "LEFT_IMPRECISE KNOCK_IN_COMPLEX" flag.
+0(0) / 1(0) allele types (reads) have "LEFT_OTHER_MUATIONS" flag.
+1(0) / 1(0) allele types (reads) have "LEFT_NO_DETECTED" flag.
+0(0) / 1(0) allele types (reads) have "RIGHT_PRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "RIGHT_IMPRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "RIGHT_IMPRECISE KNOCK_IN_COMPLEX" flag.
+0(0) / 1(0) allele types (reads) have "RIGHT_OTHER_MUATIONS" flag.
+1(0) / 1(0) allele types (reads) have "RIGHT_NO_DETECTED" flag.
+0(0) / 1(0) allele types (reads) have "PRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "IMPRECISE_KNOCK_IN" flag.
+0(0) / 1(0) allele types (reads) have "INSERT_EDITING" flag.
+0(0) / 1(0) allele types (reads) have "DELETION_EDITING" flag.
+0(0) / 1(0) allele types (reads) have "SUBSTITUTION_EDITING" flag.
+0(0) / 1(0) allele types (reads) have "UNTREATED" flag.
+1(0) / 1(0) allele types (reads) have "OTHERS" flag.
+Analyzing All data --------------------------------------------------------------------------->
+Degree of consistency in NHEJ is 97.51507840772014 percent.
+Degree of consistency in Unmodified is 91.36411702502643 percent.
+Degree of consistency in HDR is 100.0 percent.
+Degree of consistency in Mixed HDR-NHEJ is 100.0 percent.
+Save files...
+Plot MaChIAto alignment pie chart...
+All Done!
