@@ -164,9 +164,9 @@ MakeHeatMap <- function(fltr.res.file.df, predicted.data.list, y.axis.title, x.a
   rownames(predicted.comp.kl.mat) <- "temp"
   for(ind in 1:length(detected.data.list)){
     predicted.comp.kl.vec <- numeric(0)
-    machiato.nhej.crisprset.name <- names(detected.data.list[[ind]])
+    crispresso.nhej.crisprset.name <- names(detected.data.list[[ind]])
     for(temp.name in names(predicted.data.list)){
-      detected.data.df <- getElement(detected.data.list[[ind]], machiato.nhej.crisprset.name)
+      detected.data.df <- getElement(detected.data.list[[ind]], crispresso.nhej.crisprset.name)
       
       # extrast only single deletions and one-base insertion data
       detected.data.unpredict.range.index <- !grepl(":", detected.data.df$mut.label)
@@ -179,7 +179,7 @@ MakeHeatMap <- function(fltr.res.file.df, predicted.data.list, y.axis.title, x.a
       }
       detected.data.unpredict.range.index <- detected.data.unpredict.range.index | grepl(paste0(","), detected.data.df$mut.label) # multiple indels
       # remove substitution and complex vatiant
-      detected.data.predict.range.df <- DataFrame(machiato.nhej=detected.data.df[!detected.data.unpredict.range.index,]$mut.cnt)
+      detected.data.predict.range.df <- DataFrame(crispresso.nhej=detected.data.df[!detected.data.unpredict.range.index,]$mut.cnt)
       rownames(detected.data.predict.range.df) <- detected.data.df[!detected.data.unpredict.range.index,]$mut.label
      # Calculate KL divergence
      if(class_type == "base"){
@@ -198,9 +198,9 @@ MakeHeatMap <- function(fltr.res.file.df, predicted.data.list, y.axis.title, x.a
     # just below sentence was written due to misunderstanding relationship between colnames and rownames.
     # actually, I should change colnames because colnames mean predicted score. but I changed rownames.
     # I need a few change to fix it. but it works correctly without dealing with it. So it remains.
-    rownames(predicted.comp.kl.mat) <- c(rownames(predicted.comp.kl.mat)[1:nrow(predicted.comp.kl.mat)-1], gsub(paste0("-", condition.label, "$"), "", c(machiato.nhej.crisprset.name)))
+    rownames(predicted.comp.kl.mat) <- c(rownames(predicted.comp.kl.mat)[1:nrow(predicted.comp.kl.mat)-1], gsub(paste0("-", condition.label, "$"), "", c(crispresso.nhej.crisprset.name)))
   }
-  # rownames(predicted.comp.kl.mat) # MaChIAto
+  # rownames(predicted.comp.kl.mat) # crispresso
   # colnames(predicted.comp.kl.mat) # Predicted Score
   predicted.comp.kl.mat <- predicted.comp.kl.mat[-1, ]
   predicted.comp.kl.mat <- predicted.comp.kl.mat[, which(colnames(predicted.comp.kl.mat) %in% paste0(rownames(predicted.comp.kl.mat), "-", condition.label))]

@@ -1,23 +1,31 @@
-# FE_Script_by_Kazuki
+# Frame_Editor_KLD_calculation
 
-## Generate Heat Map
+`MapKLValue.R` performed KL divergence calculation and created heatmaps.
 
-conda create -n MapKLValue_env;
-source activate MapKLValue_env;
-conda install -c bioconda python=3.8 bwa=0.7.17 samtools=1.9;
-r
-> install.packages("exactRankTests")
-> quit()
-> conda activate MapKLValue_env;
-> cd FE_Script_by_Kazuki;
-R
+```R
+# create the enviroment
+install.packages("exactRankTests")
+install.packages("ggalluvial")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("reshape2")
+install.packages("stringr")
+
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("Biostrings")
+BiocManager::install("CrispRVariants")
+
+# run MapKLValue.R script
 source("./MapKLValue.R");
+```
 
-##
-##
+The output is saved into the MapKLValue_output directory.
 
-classifier version 1.8.4
-version 1.5.beta
+
+
+
 
 
 

@@ -1,28 +1,3 @@
-
-#-- Setting ----------------------------------------------------#
-
-message("----------------------------")
-message("---Start MaChIAto_Reviewer---")
-message("----------------------------")
-
-debug.flag <- TRUE
-
-# Get directory path
-if(debug.flag == TRUE){
-    script.dir <- "."
-}else{
-    initial.options <- commandArgs(trailingOnly = FALSE)
-    file.arg.name <- "--file="
-    script.fn <- sub(file.arg.name, "", initial.options[grep(file.arg.name, initial.options)])
-    script.dir <- dirname(script.fn)
-}
-
-#-- Run Script ----------------------------------------------------#
-message("---Load MaChIAto_Reviewer programs---")
-
-# source(file.path(script.dir, "MaChIAtoReviewerPackageInstaller.R"))
-# source(file.path(script.dir, "MaChIAtoReviewerFunctions.R"))
-
 #-- Load library ----------------------------------------------------#
 message("---Load libraries---")
 
@@ -35,24 +10,14 @@ library(reshape2)
 library(stringr)
 library(exactRankTests)
 
-if(debug.flag == TRUE){
-    classifier.res.dir <- "./summary"
-    aligner.res.dir <- "./variant_call_result"
-    output.prefix <- "./MapKLValue_output"
-    condition.label.vec <- c("WT1", "WT2", "WT3", "T41", "T42", "T43", "GB1", "GB2", "GB3", "HifiH1", "HifiH2", "HifiH3", "HifiH41", "HifiH42", "HifiH43", "HifiHB1", "HifiHB2", "HifiHB3")
-    ignore.list <- ""
-    indelphi.file.path <- "/Volumes/databank4/nakade_mutatiobn_analysis/20211102/NGS_WB_W4/Indelphi_files"
-}else{
-    # Get commandline arguments
-    classifier.res.dir <- GetAbsolutePath(commandArgs(trailingOnly=TRUE)[1])
-    aligner.res.dir <- GetAbsolutePath(commandArgs(trailingOnly=TRUE)[2])
-    output.prefix <- GetAbsolutePath(commandArgs(trailingOnly=TRUE)[3])
-    untreated.label <- commandArgs(trailingOnly=TRUE)[4]
-    negative.ctrl.label <- commandArgs(trailingOnly=TRUE)[5]
-    condition1.label <- commandArgs(trailingOnly=TRUE)[6]
-    condition2.label <- commandArgs(trailingOnly=TRUE)[7]
-    ignore.list <- GetAbsolutePath(commandArgs(trailingOnly=TRUE)[8])
-}
+
+classifier.res.dir <- "./summary"
+aligner.res.dir <- "./variant_call_result"
+output.prefix <- "./MapKLValue_output"
+condition.label.vec <- c("WT1", "WT2", "WT3", "T41", "T42", "T43", "GB1", "GB2", "GB3", "HifiH1", "HifiH2", "HifiH3", "HifiH41", "HifiH42", "HifiH43", "HifiHB1", "HifiHB2", "HifiHB3")
+ignore.list <- ""
+indelphi.file.path <- "/Volumes/databank4/nakade_mutatiobn_analysis/20211102/NGS_WB_W4/Indelphi_files"
+
 
 #-- Make output directory ----------------------------------------------------#
 message("---Make directory for the analysis---")
@@ -129,6 +94,7 @@ fltr.res.file.df <- filter(res.file.df, !(sample.target %in% remove.target.vec))
 message("Filtering is done.")
 
 # Read functions for calculating KL values and mapping them
+script.dir <- "."
 source(file.path(script.dir, "MapKLValue_functions.R"))
 
 ################################################################################################################################
